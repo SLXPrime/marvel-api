@@ -3,7 +3,8 @@ import './App.sass';
 
 function App() {
   return (
-    null
+    <div className="App">
+    </div>
   );
 }
 
